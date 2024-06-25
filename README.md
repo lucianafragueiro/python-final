@@ -1,4 +1,4 @@
-Hoy vamos a hacer actividad en Python en un día como programadores:
+# Hoy vamos a hacer actividad en Python en un día como programadores:
 1. Abrir la terminal de Git Bash o terminal en Linux, debe ser como administrador en Window
 2. Creamos una carpeta o directorio: 
 mkdir python-final
